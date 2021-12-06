@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaanagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaanagarwal" /> </p>
 
-- 🌱 I’m currently learning **Reinforcement Learning ,Natural Language Processing and Financial Engineering**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 👯 I’m looking to collaborate on **exciting projects**
 
