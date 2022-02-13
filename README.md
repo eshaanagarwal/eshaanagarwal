@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **exciting projects**
 
-- 💬 Ask me about **Dialogue Generation, React, Django, Flask**
+- 💬 Ask me about **C++, React, Django, Flask,Dialogue Generation**
 
 - 📫 How to reach me **eshaan060202@gmail.com**
 
