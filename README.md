@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaanagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaanagarwal" /> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on **exciting projects**
 
-- 💬 Ask me about **React, Django, Flask**
+- 💬 Ask me about **Dialogue Generation, React, Django, Flask**
 
 - 📫 How to reach me **eshaan060202@gmail.com**
 
